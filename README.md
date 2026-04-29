@@ -6,7 +6,7 @@ Here you will find a list of project ideas for enhancing your developer knowledg
 
 |   | Project idea | Difficulty |
 | :--- | :---: | ---: |
-| 1 | Personal Portfolio Site | Begineer |  
+| 1 | Personal Portfolio Site | Begineer |    
 | 2 | Weather Dashboard | Begineer | 
 | 3 | To-Do list with LocalStorage| Begineer |
 | 4 | Calculator (Standard & Scientific) | Begineer |
