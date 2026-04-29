@@ -21,7 +21,7 @@ Here you will find a list of project ideas for enhancing your developer knowledg
 | 13 | Music Player | Intermediate |
 | 14 | Real-time Chat UI | Intermediate |
 | 15 | Dashboard with Dark Mode | Intermediate |
-| 16 | Multi-step Signup Form | Intermediate |
+| 16 | Multi-step Signup Form | Intermediate |   
 | 17 | Infinite Scroll Gallery | Advanced |
 | 18 | Collaborative Whiteboard | Advanced |
 | 19 | Browser-based Code Editor | Advanced |
