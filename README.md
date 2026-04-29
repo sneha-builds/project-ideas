@@ -1,4 +1,4 @@
-# project-ideas
+# project-ideas   
 
 Here you will find a list of project ideas for enhancing your developer knowledge.
 
