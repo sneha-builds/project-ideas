@@ -2,7 +2,7 @@
 
 Here you will find a list of project ideas for enhancing your developer knowledge.
 
-## Frontend Projects
+## Frontend Projects 
 
 |   | Project idea | Difficulty |
 | :--- | :---: | ---: |
@@ -31,21 +31,21 @@ Here you will find a list of project ideas for enhancing your developer knowledg
 
 |   | Project idea | Difficulty |
 | :--- | :---: | ---: |
-| 21 | URL Shortener | Begineer |
-| 22 | Static File Server | Begineer |
-| 23 | Basic Auth System | Begineer |
-| 24 | Random Quote API | Begineer |
-| 25 | Task Manager API | Begineer |
-| 26 | Expense Tracker Backend | Intermediate |
-| 27 | Blog CMS API | Intermediate |
-| 28 | Newsletter Microservice | Intermediate |
-| 29 | Discord Bot (Custom Commands) | Intermediate |
-| 30 | Caching Proxy Server | Intermediate |
-| 31 | Voting System (Polls) | Intermediate |
-| 32 | Scraper for Job Boards | Intermediate |
-| 33 | Video Streaming Backend | Advanced |
-| 34 | Real-time Stock Engine | Advanced |
-| 35 | Role-Based Access Control (RBAC) | Advanced |
+| 1 | URL Shortener | Begineer |
+| 2 | Static File Server | Begineer |
+| 3 | Basic Auth System | Begineer |
+| 4 | Random Quote API | Begineer |
+| 5 | Task Manager API | Begineer |
+| 6 | Expense Tracker Backend | Intermediate |
+| 7 | Blog CMS API | Intermediate |
+| 8 | Newsletter Microservice | Intermediate |
+| 9 | Discord Bot (Custom Commands) | Intermediate |
+| 10 | Caching Proxy Server | Intermediate |
+| 11 | Voting System (Polls) | Intermediate |
+| 12 | Scraper for Job Boards | Intermediate |
+| 13 | Video Streaming Backend | Advanced |
+| 14 | Real-time Stock Engine | Advanced |
+| 15 | Role-Based Access Control (RBAC) | Advanced |
 
 ## Full-Stack Projects
 
