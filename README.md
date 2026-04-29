@@ -25,7 +25,7 @@ Here you will find a list of project ideas for enhancing your developer knowledg
 | 17 | Infinite Scroll Gallery | Advanced |
 | 18 | Collaborative Whiteboard | Advanced |
 | 19 | Browser-based Code Editor | Advanced |
-| 20 | Visualizer for Sorting Algos | Advanced |
+| 20 | Visualizer for Sorting Algos | Advanced |  
 
 ## Backend Projects
 
