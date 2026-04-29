@@ -51,7 +51,7 @@ Here you will find a list of project ideas for enhancing your developer knowledg
 
 |   | Project idea | Difficulty |
 | :--- | :---: | ---: |
-| 36 | Simple Personal Diary | Begineer |
+| 36 | Simple Personal Diary | Begineer |  
 | 37 | Habit Tracker | Begineer |    
 | 38 | Poll App | Begineer |
 | 39 | Real-time Chat Application | Intermediate |
