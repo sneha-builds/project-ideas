@@ -8,7 +8,7 @@ Here you will find a list of project ideas for enhancing your developer knowledg
 | :--- | :---: | ---: |
 | 1 | Personal Portfolio Site | Begineer |    
 | 2 | Weather Dashboard | Begineer | 
-| 3 | To-Do list with LocalStorage| Begineer |
+| 3 | To-Do list with LocalStorage| Begineer |                      
 | 4 | Calculator (Standard & Scientific) | Begineer |
 | 5 | Recipe Finder | Begineer |
 | 6 | Digital Clock with Themes| Begineer |
