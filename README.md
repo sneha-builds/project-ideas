@@ -2,7 +2,7 @@
 
 Here you will find a list of project ideas for enhancing your developer knowledge.
 
-## Frontend Projects 
+## Frontend Projects
 
 |   | Project idea | Difficulty |
 | :--- | :---: | ---: |
