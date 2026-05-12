@@ -1,5 +1,5 @@
 # project-ideas   
-Here you will find a list of project ideas for enhancing your developer knowledge.  
+Here is a list of project ideas for enhancing your developer knowledge and showing your skills to the world.
 
 ## Frontend Projects 
  
