@@ -1,4 +1,4 @@
-# project-ideas       
+# project-ideas         
 Here is a list of project ideas for enhancing your developer knowledge and showing your skills to the world.
 
 ## Frontend Projects 
