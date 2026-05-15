@@ -4,7 +4,7 @@ Here is a list of project ideas for enhancing your developer knowledge and showi
 ## Frontend Projects     
  
 |   | Project idea | Difficulty |
-| :--- | :---: | ---: |
+| :--- | :---: | ---: | 
 | 1 | Personal Portfolio Site | Begineer |  
 | 2 | Weather Dashboard | Begineer | 
 | 3 | To-Do list with LocalStorage| Begineer |
